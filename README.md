@@ -8,3 +8,6 @@
 
 
 ng-route with lazy load
+
+contact me: 
+route666@live.cn
