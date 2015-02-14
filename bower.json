@@ -1,0 +1,12 @@
+{
+  "name": "angular-route-ext",
+  "version": "0.1.0",
+  "main": "angular-route-ext.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": "*",
+    "angular-route": "*",
+    "requirejs": "*"
+  },
+  "license": "MIT"
+}
